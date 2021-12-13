@@ -1,0 +1,7 @@
+correct_test_results 10000
+precision_p 1.0
+recall_p 1.0
+precision_c 0.0
+recall_c 0.0
+f1_c Undefined
+f1_p 1.0
